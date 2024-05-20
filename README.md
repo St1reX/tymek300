@@ -27,5 +27,5 @@ I am student of third year of a programming technical school. I really enjoy wri
 
 🎌 Country: Poland
 
-⚡️ Fun fact: 
+⚡️ Fun fact: My dad is a police officer 👮‍♂️
 
