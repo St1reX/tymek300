@@ -7,14 +7,7 @@ I am student of third year of a programming technical school. I really enjoy wri
 
 
 ## 🛠 Skills
-- JavaScript
-- CSS
-- HTML
-- TailwindCSS
-- PHP
-- C# (as a hobby)
-- C++ (as a hobby)
-
+[![Bootstrap][Bootstrap.com]][Bootstrap-url] [![JQuery][JQuery.com]][JQuery-url]
 
 ## Github Basic Informations
 👩‍💻 I'm currently working on Selene.io || Lunar E-Commerce Project
