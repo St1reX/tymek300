@@ -21,10 +21,10 @@
 
 ### Languages and Tools:
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-<a href="https://nodejs.org/" target="_blank"><img align="left" alt="Node.js" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/nodejs.svg?raw=true" /></a>
+<a href="https://nodejs.org/" target="_blank"><img align="left" alt="Node.js" width="26px" src="https://banner2.cleanpng.com/20180416/hie/avfpyeby4.webp" /></a>
 <a href="https://jquery.com/" target="_blank"><img align="left" alt="jQuery" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/jquery.svg" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/csharp.png" /></a>
 <a href="https://sqlite.org/" target="_blank"><img align="left" alt="SQLite" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/sqlite.png" /></a>
