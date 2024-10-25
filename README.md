@@ -1,6 +1,7 @@
-## Heyyo, I'm [Jacob]!
+## Heyyo, I'm Jacob!
+<br>
 > Programista z technikum, twórca aplikacji i pasjonat automatyzacji
-
+<br>
 <a href="https://twój-link-do-strony.com" target="_blank"><img align="left" alt="twoja-strona" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://linkedin.com/in/twoje-linkedin" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
 <a href="https://instagram.com/twoje-instagram" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
