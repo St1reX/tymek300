@@ -1,5 +1,6 @@
 ## Heyyo, I'm Jacob!
-> Programista z technikum, twórca aplikacji i pasjonat automatyzacji
+> A high school programmer, application creator, and automation enthusiast
+
 <br>
 <a href="https://twój-link-do-strony.com" target="_blank"><img align="left" alt="twoja-strona" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://linkedin.com/in/twoje-linkedin" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
@@ -7,12 +8,12 @@
 
 <br />
 
-### 📕 Ostatnie projekty
+### 📕 Latest Projects
 
 <!-- PROJECT-LIST:START -->
-- **Aplikacja do fiszek** - HTML, SCSS, jQuery, Node.js
-- **Książka telefoniczna** - C#, SQLite
-- **Bot automatyzujący codzienne kursy** - C#
+- **Flashcard App** - HTML, SCSS, jQuery, Node.js
+- **Phone Book** - C#, SQLite
+- **Automated Exchange Rate Bot** - C#
 <!-- PROJECT-LIST:END -->
 
 <br />
