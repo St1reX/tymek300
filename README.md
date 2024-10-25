@@ -33,7 +33,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_username)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/tymek300)
 
 ---
 
