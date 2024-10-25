@@ -1,5 +1,4 @@
 ## Heyyo, I'm Jacob!
-<br>
 > Programista z technikum, twórca aplikacji i pasjonat automatyzacji
 <br>
 <a href="https://twój-link-do-strony.com" target="_blank"><img align="left" alt="twoja-strona" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
