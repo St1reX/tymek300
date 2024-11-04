@@ -2,7 +2,7 @@
 > A high school programmer, application creator, and automation enthusiast
 
 <br>
-<a href="www.youtube.com" target="_blank"><img align="left" alt="twoja-strona" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
+<a href="https://youtube.com" target="_blank"><img align="left" alt="twoja-strona" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://www.linkedin.com/in/jakub-uryga-812182332" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
 <a href="https://instagram.com" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
 
